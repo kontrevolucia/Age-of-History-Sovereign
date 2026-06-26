@@ -22,7 +22,7 @@
 			y: 1180
 		},
 		{
-			Name: "Andorra la Vella",
+			Name: "AndorralaVella",
 			x: 2105,
 			y: 1039
 		},
@@ -82,7 +82,7 @@
 			y: 1178
 		},
 		{
-			Name: "Guatemala City",
+			Name: "GuatemalaCity",
 			x: 974,
 			y: 1451
 		},
@@ -147,7 +147,7 @@
 			y: 1705
 		},
 		{
-			Name: "La Paz",
+			Name: "LaPaz",
 			x: 1248,
 			y: 1864
 		},
@@ -232,7 +232,7 @@
 			y: 2111
 		},
 		{
-			Name: "San Salvador",
+			Name: "SanSalvador",
 			x: 990,
 			y: 1463
 		},
@@ -292,12 +292,12 @@
 			y: 1593
 		},
 		{
-			Name: "San José",
+			Name: "SanJosé",
 			x: 1053,
 			y: 1512
 		},
 		{
-			Name: "Panama City",
+			Name: "PanamaCity",
 			x: 1111,
 			y: 1523
 		},
@@ -317,7 +317,7 @@
 			y: 2134
 		},
 		{
-			Name: "Buenos Aires",
+			Name: "BuenosAires",
 			x: 1366,
 			y: 2130
 		},
@@ -342,7 +342,7 @@
 			y: 1397
 		},
 		{
-			Name: "Santo Domingo",
+			Name: "SantoDomingo",
 			x: 1229,
 			y: 1396
 		},
@@ -357,7 +357,7 @@
 			y: 1404
 		},
 		{
-			Name: "San Juan",
+			Name: "SanJuan",
 			x: 1273,
 			y: 1400
 		},
@@ -527,7 +527,7 @@
 			y: 1010
 		},
 		{
-			Name: "Luxembourg City",
+			Name: "LuxembourgCity",
 			x: 2162,
 			y: 921
 		},
@@ -612,7 +612,7 @@
 			y: 1270
 		},
 		{
-			Name: "Phnom Penh",
+			Name: "PhnomPenh",
 			x: 3371,
 			y: 1491
 		},
@@ -657,7 +657,7 @@
 			y: 2142
 		},
 		{
-			Name: "New Delhi",
+			Name: "NewDelhi",
 			x: 3030,
 			y: 1255
 		},
@@ -687,7 +687,7 @@
 			y: 947
 		},
 		{
-			Name: "Abu Dhabi",
+			Name: "AbuDhabi",
 			x: 2755,
 			y: 1314
 		},
@@ -697,7 +697,7 @@
 			y: 1756
 		},
 		{
-			Name: "Port Moresby",
+			Name: "PortMoresby",
 			x: 3887,
 			y: 1767
 		},
@@ -732,12 +732,12 @@
 			y: 1625
 		},
 		{
-			Name: "Kuala Lumpur",
+			Name: "KualaLumpur",
 			x: 3331,
 			y: 1601
 		},
 		{
-			Name: "Bandar Seri Begawan",
+			Name: "BandarSeriBegawan",
 			x: 3493,
 			y: 1580
 		},
@@ -807,7 +807,7 @@
 			y: 1950
 		},
 		{
-			Name: "Sao Tomé",
+			Name: "SaoTomé",
 			x: 2166,
 			y: 1634
 		},
@@ -822,7 +822,7 @@
 			y: 1480
 		},
 		{
-			Name: "Addis Ababa",
+			Name: "AddisAbaba",
 			x: 2561,
 			y: 1525
 		},
@@ -852,7 +852,7 @@
 			y: 2005
 		},
 		{
-			Name: "Cape Town",
+			Name: "CapeTown",
 			x: 2311,
 			y: 2121
 		},
@@ -962,7 +962,7 @@
 			y: 1928
 		},
 		{
-			Name: "Hanga Roa",
+			Name: "HangaRoa",
 			x: 727,
 			y: 2013
 		},
@@ -987,17 +987,17 @@
 			y: 1928
 		},
 		{
-			Name: "Pago Pago",
+			Name: "PagoPago",
 			x: 4406,
 			y: 1840
 		},
 		{
-			Name: "Mata Utu",
+			Name: "MataUtu",
 			x: 4338,
 			y: 1824
 		},
 		{
-			Name: "Port Vila",
+			Name: "PortVila",
 			x: 4147,
 			y: 1883
 		},
@@ -1007,17 +1007,17 @@
 			y: 1650
 		},
 		{
-			Name: "South Tarawa",
+			Name: "SouthTarawa",
 			x: 4201,
 			y: 1624
 		},
 		{
-			Name: "Capitol Hill",
+			Name: "CapitolHill",
 			x: 3867,
 			y: 1439
 		},
 		{
-			Name: "Saint Helier",
+			Name: "SaintHelier",
 			x: 2060,
 			y: 924
 		},
@@ -1037,7 +1037,7 @@
 			y: 1301
 		},
 		{
-			Name: "Kuwait City",
+			Name: "KuwaitCity",
 			x: 2672,
 			y: 1243
 		},
@@ -1052,12 +1052,12 @@
 			y: 1708
 		},
 		{
-			Name: "Port Louis",
+			Name: "PortLouis",
 			x: 2792,
 			y: 1918
 		},
 		{
-			Name: "Saint Denis",
+			Name: "SaintDenis",
 			x: 2767,
 			y: 1929
 		},
@@ -1067,12 +1067,12 @@
 			y: 1820
 		},
 		{
-			Name: "King Edward Point",
+			Name: "KingEdwardPoint",
 			x: 1620,
 			y: 2486
 		},
 		{
-			Name: "Saint John’s",
+			Name: "SaintJohn’s",
 			x: 1329,
 			y: 1416
 		},
@@ -1117,12 +1117,12 @@
 			y: 1470
 		},
 		{
-			Name: "Saint George's",
+			Name: "SaintGeorge's",
 			x: 1329,
 			y: 1484
 		},
 		{
-			Name: "Port of Spain",
+			Name: "PortofSpain",
 			x: 1329,
 			y: 1504
 		},
@@ -1132,12 +1132,12 @@
 			y: 1450
 		},
 		{
-			Name: "Cockburn Town",
+			Name: "CockburnTown",
 			x: 1208,
 			y: 1357
 		},
 		{
-			Name: "George Town",
+			Name: "GeorgeTown",
 			x: 1085,
 			y: 1388
 		},

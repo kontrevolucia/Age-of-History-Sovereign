@@ -37,17 +37,17 @@
 			y: 1506
 		},
 		{
-			Name: "Buur Gaabo",
+			Name: "BuurGaabo",
 			x: 2623,
 			y: 1611
 		},
 		{
-			Name: "Santa Inês",
+			Name: "SantaInês",
 			x: 1525,
 			y: 1690
 		},
 		{
-			Name: "Novo Progresso",
+			Name: "NovoProgresso",
 			x: 1400,
 			y: 1736
 		},
@@ -67,7 +67,7 @@
 			y: 681
 		},
 		{
-			Name: "Ust Ilimsk",
+			Name: "UstIlimsk",
 			x: 3337,
 			y: 768
 		},
@@ -92,7 +92,7 @@
 			y: 840
 		},
 		{
-			Name: "Usolye Sibirskoye",
+			Name: "UsolyeSibirskoye",
 			x: 3355,
 			y: 859
 		},
@@ -112,7 +112,7 @@
 			y: 933
 		},
 		{
-			Name: "Sovetskaya Gavan",
+			Name: "SovetskayaGavan",
 			x: 3805,
 			y: 925
 		},
@@ -167,7 +167,7 @@
 			y: 750
 		},
 		{
-			Name: "Veliky Ustyug",
+			Name: "VelikyUstyug",
 			x: 2654,
 			y: 692
 		},
@@ -222,7 +222,7 @@
 			y: 747
 		},
 		{
-			Name: "Vyshny Volochyok",
+			Name: "VyshnyVolochyok",
 			x: 2506,
 			y: 763
 		},
@@ -242,7 +242,7 @@
 			y: 774
 		},
 		{
-			Name: "Staraya Russa",
+			Name: "StarayaRussa",
 			x: 2467,
 			y: 754
 		},
@@ -442,7 +442,7 @@
 			y: 1240
 		},
 		{
-			Name: "Bandar-e Mahshahr",
+			Name: "Bandar-eMahshahr",
 			x: 2689,
 			y: 1225
 		},
@@ -497,7 +497,7 @@
 			y: 1136
 		},
 		{
-			Name: "Gonbad-e Kavus",
+			Name: "Gonbad-eKavus",
 			x: 2760,
 			y: 1119
 		},
@@ -842,7 +842,7 @@
 			y: 736
 		},
 		{
-			Name: "La Roche-sur-Yon",
+			Name: "LaRoche-sur-Yon",
 			x: 2070,
 			y: 972
 		},
@@ -877,7 +877,7 @@
 			y: 1096
 		},
 		{
-			Name: "Castelo Branco",
+			Name: "CasteloBranco",
 			x: 1996,
 			y: 1081
 		},
@@ -892,22 +892,22 @@
 			y: 1058
 		},
 		{
-			Name: "Thanh Hung",
+			Name: "ThanhHung",
 			x: 3374,
 			y: 1390
 		},
 		{
-			Name: "Dong Hoi",
+			Name: "DongHoi",
 			x: 3392,
 			y: 1410
 		},
 		{
-			Name: "Kon Tum",
+			Name: "KonTum",
 			x: 3410,
 			y: 1455
 		},
 		{
-			Name: "Quang Ngai",
+			Name: "QuangNgai",
 			x: 3420,
 			y: 1444
 		},
@@ -1087,17 +1087,17 @@
 			y: 783
 		},
 		{
-			Name: "Fort McMurray",
+			Name: "FortMcMurray",
 			x: 723,
 			y: 790
 		},
 		{
-			Name: "Prince Albert",
+			Name: "PrinceAlbert",
 			x: 789,
 			y: 850
 		},
 		{
-			Name: "Grande Prairie",
+			Name: "GrandePrairie",
 			x: 616,
 			y: 816
 		},
@@ -1107,7 +1107,7 @@
 			y: 774
 		},
 		{
-			Name: "Prince George",
+			Name: "PrinceGeorge",
 			x: 578,
 			y: 852
 		},
@@ -1272,7 +1272,7 @@
 			y: 975
 		},
 		{
-			Name: "The Forks",
+			Name: "TheForks",
 			x: 1223,
 			y: 999
 		},
@@ -1327,12 +1327,12 @@
 			y: 1407
 		},
 		{
-			Name: "San Cristobal de las Casas",
+			Name: "SanCristobaldelasCasas",
 			x: 945,
 			y: 1423
 		},
 		{
-			Name: "Puerto Barrios",
+			Name: "PuertoBarrios",
 			x: 996,
 			y: 1437
 		},
@@ -1347,7 +1347,7 @@
 			y: 1428
 		},
 		{
-			Name: "Puerto Escondido",
+			Name: "PuertoEscondido",
 			x: 899,
 			y: 1435
 		},
@@ -1387,7 +1387,7 @@
 			y: 853
 		},
 		{
-			Name: "Pine Bluff",
+			Name: "PineBluff",
 			x: 954,
 			y: 1176
 		},
@@ -1407,7 +1407,7 @@
 			y: 1111
 		},
 		{
-			Name: "Porto Seguro",
+			Name: "PortoSeguro",
 			x: 1605,
 			y: 1863
 		},
@@ -1452,7 +1452,7 @@
 			y: 1561
 		},
 		{
-			Name: "Kilwa Masoko",
+			Name: "KilwaMasoko",
 			x: 2564,
 			y: 1747
 		},
@@ -1477,7 +1477,7 @@
 			y: 1788
 		},
 		{
-			Name: "Che Che",
+			Name: "CheChe",
 			x: 1913,
 			y: 1484
 		},
@@ -1512,7 +1512,7 @@
 			y: 1955
 		},
 		{
-			Name: "Três Lagoas",
+			Name: "TrêsLagoas",
 			x: 1447,
 			y: 1922
 		},
@@ -1782,7 +1782,7 @@
 			y: 1576
 		},
 		{
-			Name: "Mundri West",
+			Name: "MundriWest",
 			x: 2456,
 			y: 1573
 		},
@@ -1832,7 +1832,7 @@
 			y: 1578
 		},
 		{
-			Name: "Negele Borana",
+			Name: "NegeleBorana",
 			x: 2567,
 			y: 1572
 		},
@@ -1852,7 +1852,7 @@
 			y: 1649
 		},
 		{
-			Name: "Kebri Dahar",
+			Name: "KebriDahar",
 			x: 2626,
 			y: 1554
 		},
@@ -1962,7 +1962,7 @@
 			y: 1470
 		},
 		{
-			Name: "Nouna Department",
+			Name: "NounaDepartment",
 			x: 2039,
 			y: 1474
 		},
@@ -2062,7 +2062,7 @@
 			y: 1496
 		},
 		{
-			Name: "En Nahud",
+			Name: "EnNahud",
 			x: 2433,
 			y: 1473
 		},
@@ -2102,7 +2102,7 @@
 			y: 1225
 		},
 		{
-			Name: "Dakhla Oasis",
+			Name: "DakhlaOasis",
 			x: 2460,
 			y: 1300
 		},
@@ -2122,7 +2122,7 @@
 			y: 1220
 		},
 		{
-			Name: "Ras Gharib",
+			Name: "RasGharib",
 			x: 2491,
 			y: 1256
 		},
@@ -2217,12 +2217,12 @@
 			y: 2104
 		},
 		{
-			Name: "Coronel Oviedo",
+			Name: "CoronelOviedo",
 			x: 1389,
 			y: 1990
 		},
 		{
-			Name: "Santa Rosa",
+			Name: "SantaRosa",
 			x: 1292,
 			y: 2161
 		},
@@ -2232,7 +2232,7 @@
 			y: 1958
 		},
 		{
-			Name: "Río Cuarto",
+			Name: "RíoCuarto",
 			x: 1293,
 			y: 2108
 		},
@@ -2252,7 +2252,7 @@
 			y: 2043
 		},
 		{
-			Name: "San Rafael",
+			Name: "SanRafael",
 			x: 1243,
 			y: 2130
 		},
@@ -2272,7 +2272,7 @@
 			y: 2105
 		},
 		{
-			Name: "Venado Tuerto",
+			Name: "VenadoTuerto",
 			x: 1321,
 			y: 2116
 		},
@@ -2287,7 +2287,7 @@
 			y: 2163
 		},
 		{
-			Name: "Villa Gesell",
+			Name: "VillaGesell",
 			x: 1384,
 			y: 2172
 		},
@@ -2297,7 +2297,7 @@
 			y: 2173
 		},
 		{
-			Name: "Tres Arroyos",
+			Name: "TresArroyos",
 			x: 1340,
 			y: 2190
 		},
@@ -2307,12 +2307,12 @@
 			y: 1891
 		},
 		{
-			Name: "El Calafate",
+			Name: "ElCalafate",
 			x: 1194,
 			y: 2404
 		},
 		{
-			Name: "Río Grande",
+			Name: "RíoGrande",
 			x: 1249,
 			y: 2475
 		},
@@ -2337,7 +2337,7 @@
 			y: 2231
 		},
 		{
-			Name: "Los Ángeles",
+			Name: "LosÁngeles",
 			x: 1197,
 			y: 2177
 		},
@@ -2367,7 +2367,7 @@
 			y: 1764
 		},
 		{
-			Name: "Río Gallegos",
+			Name: "RíoGallegos",
 			x: 1236,
 			y: 2432
 		},
@@ -2487,7 +2487,7 @@
 			y: 2094
 		},
 		{
-			Name: "Punta del Diablo",
+			Name: "PuntadelDiablo",
 			x: 1424,
 			y: 2117
 		},
@@ -2532,7 +2532,7 @@
 			y: 1274
 		},
 		{
-			Name: "Puerto Maldonado",
+			Name: "PuertoMaldonado",
 			x: 1235,
 			y: 1810
 		},
@@ -2542,7 +2542,7 @@
 			y: 1769
 		},
 		{
-			Name: "Aguas Calientes",
+			Name: "AguasCalientes",
 			x: 1194,
 			y: 1816
 		},
@@ -2682,17 +2682,17 @@
 			y: 1867
 		},
 		{
-			Name: "Halls Creek",
+			Name: "HallsCreek",
 			x: 3647,
 			y: 1891
 		},
 		{
-			Name: "Port Lincoln",
+			Name: "PortLincoln",
 			x: 3748,
 			y: 2132
 		},
 		{
-			Name: "Port Augusta",
+			Name: "PortAugusta",
 			x: 3770,
 			y: 2098
 		},
@@ -2722,7 +2722,7 @@
 			y: 1963
 		},
 		{
-			Name: "Broken Hill",
+			Name: "BrokenHill",
 			x: 3813,
 			y: 2090
 		},
@@ -2732,7 +2732,7 @@
 			y: 1928
 		},
 		{
-			Name: "Coffs Harbour",
+			Name: "CoffsHarbour",
 			x: 3959,
 			y: 2064
 		},
@@ -2747,7 +2747,7 @@
 			y: 2331
 		},
 		{
-			Name: "Mount Gambier",
+			Name: "MountGambier",
 			x: 3807,
 			y: 2182
 		},
@@ -2792,12 +2792,12 @@
 			y: 1010
 		},
 		{
-			Name: "North Bay",
+			Name: "NorthBay",
 			x: 1109,
 			y: 980
 		},
 		{
-			Name: "Corner Brook",
+			Name: "CornerBrook",
 			x: 1372,
 			y: 936
 		},
@@ -2827,7 +2827,7 @@
 			y: 1123
 		},
 		{
-			Name: "Bowling Green",
+			Name: "BowlingGreen",
 			x: 1021,
 			y: 1135
 		},
@@ -2872,7 +2872,7 @@
 			y: 1006
 		},
 		{
-			Name: "Eau Claire",
+			Name: "EauClaire",
 			x: 959,
 			y: 1007
 		},
@@ -2897,17 +2897,17 @@
 			y: 1031
 		},
 		{
-			Name: "Rock Springs",
+			Name: "RockSprings",
 			x: 745,
 			y: 1063
 		},
 		{
-			Name: "Swift Current",
+			Name: "SwiftCurrent",
 			x: 760,
 			y: 910
 		},
 		{
-			Name: "Great Falls",
+			Name: "GreatFalls",
 			x: 717,
 			y: 962
 		},
@@ -2937,7 +2937,7 @@
 			y: 994
 		},
 		{
-			Name: "Coeur d'Alene",
+			Name: "Coeurd'Alene",
 			x: 651,
 			y: 961
 		},
@@ -2962,12 +2962,12 @@
 			y: 1055
 		},
 		{
-			Name: "Mason City",
+			Name: "MasonCity",
 			x: 938,
 			y: 1035
 		},
 		{
-			Name: "North Platte",
+			Name: "NorthPlatte",
 			x: 848,
 			y: 1068
 		},
@@ -3002,7 +3002,7 @@
 			y: 1232
 		},
 		{
-			Name: "Lake Charles",
+			Name: "LakeCharles",
 			x: 938,
 			y: 1233
 		},
@@ -3047,7 +3047,7 @@
 			y: 1076
 		},
 		{
-			Name: "San Luis Obispo",
+			Name: "SanLuisObispo",
 			x: 610,
 			y: 1164
 		},
@@ -3127,7 +3127,7 @@
 			y: 1061
 		},
 		{
-			Name: "Ústí nad Labem",
+			Name: "ÚstínadLabem",
 			x: 2258,
 			y: 902
 		},
@@ -3142,7 +3142,7 @@
 			y: 932
 		},
 		{
-			Name: "Banská Bystrica",
+			Name: "BanskáBystrica",
 			x: 2320,
 			y: 940
 		},
@@ -3187,7 +3187,7 @@
 			y: 1015
 		},
 		{
-			Name: "Novi Pazar",
+			Name: "NoviPazar",
 			x: 2334,
 			y: 1029
 		},
@@ -3307,7 +3307,7 @@
 			y: 1459
 		},
 		{
-			Name: "Long Lama",
+			Name: "LongLama",
 			x: 3493,
 			y: 1591
 		},
@@ -3367,12 +3367,12 @@
 			y: 1736
 		},
 		{
-			Name: "Ben Tre",
+			Name: "BenTre",
 			x: 3391,
 			y: 1507
 		},
 		{
-			Name: "Ban Dong",
+			Name: "BanDong",
 			x: 3311,
 			y: 1397
 		},
@@ -3437,7 +3437,7 @@
 			y: 874
 		},
 		{
-			Name: "Biała Podlaska",
+			Name: "BiałaPodlaska",
 			x: 2370,
 			y: 877
 		},
@@ -3562,7 +3562,7 @@
 			y: 1142
 		},
 		{
-			Name: "Santa Rosa",
+			Name: "SantaRosa",
 			x: 579,
 			y: 1113
 		},
@@ -3607,7 +3607,7 @@
 			y: 999
 		},
 		{
-			Name: "Klamath Falls",
+			Name: "KlamathFalls",
 			x: 591,
 			y: 1051
 		},
@@ -3652,7 +3652,7 @@
 			y: 1218
 		},
 		{
-			Name: "Panama City",
+			Name: "PanamaCity",
 			x: 1030,
 			y: 1230
 		},
@@ -3962,12 +3962,12 @@
 			y: 1226
 		},
 		{
-			Name: "Tongchon County",
+			Name: "TongchonCounty",
 			x: 3657,
 			y: 1102
 		},
 		{
-			Name: "Heshigten Banner",
+			Name: "HeshigtenBanner",
 			x: 3527,
 			y: 1028
 		},
@@ -4277,7 +4277,7 @@
 			y: 870
 		},
 		{
-			Name: "Qalati Ghilji",
+			Name: "QalatiGhilji",
 			x: 2903,
 			y: 1203
 		},
@@ -4302,7 +4302,7 @@
 			y: 1249
 		},
 		{
-			Name: "Qila Ladgasht",
+			Name: "QilaLadgasht",
 			x: 2856,
 			y: 1266
 		},
@@ -4342,12 +4342,12 @@
 			y: 1315
 		},
 		{
-			Name: "Al Batha",
+			Name: "AlBatha",
 			x: 2713,
 			y: 1315
 		},
 		{
-			Name: "As Sulayyil",
+			Name: "AsSulayyil",
 			x: 2641,
 			y: 1367
 		},
@@ -4367,7 +4367,7 @@
 			y: 1264
 		},
 		{
-			Name: "Al Majmaah",
+			Name: "AlMajmaah",
 			x: 2639,
 			y: 1289
 		},
@@ -4377,7 +4377,7 @@
 			y: 1257
 		},
 		{
-			Name: "Al Wajh",
+			Name: "AlWajh",
 			x: 2534,
 			y: 1287
 		},
@@ -4392,7 +4392,7 @@
 			y: 1317
 		},
 		{
-			Name: "El Tor",
+			Name: "ElTor",
 			x: 2497,
 			y: 1255
 		},
@@ -4462,17 +4462,17 @@
 			y: 1401
 		},
 		{
-			Name: "Khon Kaen",
+			Name: "KhonKaen",
 			x: 3343,
 			y: 1426
 		},
 		{
-			Name: "Sakon Nakhon",
+			Name: "SakonNakhon",
 			x: 3359,
 			y: 1415
 		},
 		{
-			Name: "Udon Thani",
+			Name: "UdonThani",
 			x: 3343,
 			y: 1413
 		},
@@ -4492,7 +4492,7 @@
 			y: 1502
 		},
 		{
-			Name: "Nakhon Si Thammarat",
+			Name: "NakhonSiThammarat",
 			x: 3310,
 			y: 1531
 		},
@@ -4507,32 +4507,32 @@
 			y: 1444
 		},
 		{
-			Name: "Kampong Cham",
+			Name: "KampongCham",
 			x: 3377,
 			y: 1485
 		},
 		{
-			Name: "Puerto Peñasco",
+			Name: "PuertoPeñasco",
 			x: 691,
 			y: 1217
 		},
 		{
-			Name: "Cam Pha",
+			Name: "CamPha",
 			x: 3399,
 			y: 1359
 		},
 		{
-			Name: "Cao Bang",
+			Name: "CaoBang",
 			x: 3385,
 			y: 1339
 		},
 		{
-			Name: "Lao Cai",
+			Name: "LaoCai",
 			x: 3358,
 			y: 1343
 		},
 		{
-			Name: "My Tho",
+			Name: "MyTho",
 			x: 1212,
 			y: 1401
 		},
@@ -4557,12 +4557,12 @@
 			y: 1526
 		},
 		{
-			Name: "Pinar del Río",
+			Name: "PinardelRío",
 			x: 1059,
 			y: 1347
 		},
 		{
-			Name: "El Vigía",
+			Name: "ElVigía",
 			x: 1203,
 			y: 1527
 		},
@@ -4577,7 +4577,7 @@
 			y: 1570
 		},
 		{
-			Name: "Puerto Ayacucho",
+			Name: "PuertoAyacucho",
 			x: 1258,
 			y: 1567
 		},
@@ -4597,7 +4597,7 @@
 			y: 1596
 		},
 		{
-			Name: "La Macarena",
+			Name: "LaMacarena",
 			x: 1177,
 			y: 1615
 		},
@@ -4712,7 +4712,7 @@
 			y: 830
 		},
 		{
-			Name: "Hassi Messaoud",
+			Name: "HassiMessaoud",
 			x: 2153,
 			y: 1231
 		},
@@ -4722,12 +4722,12 @@
 			y: 1256
 		},
 		{
-			Name: "In Salah",
+			Name: "InSalah",
 			x: 2116,
 			y: 1273
 		},
 		{
-			Name: "El Bayadh",
+			Name: "ElBayadh",
 			x: 2098,
 			y: 1176
 		},
@@ -4747,7 +4747,7 @@
 			y: 893
 		},
 		{
-			Name: "Tan Tan",
+			Name: "TanTan",
 			x: 1949,
 			y: 1254
 		},
@@ -4872,12 +4872,12 @@
 			y: 1954
 		},
 		{
-			Name: "De Aar",
+			Name: "DeAar",
 			x: 2376,
 			y: 2070
 		},
 		{
-			Name: "Victoria West",
+			Name: "VictoriaWest",
 			x: 2365,
 			y: 2082
 		},
@@ -4912,7 +4912,7 @@
 			y: 1210
 		},
 		{
-			Name: "Victoria Falls",
+			Name: "VictoriaFalls",
 			x: 2400,
 			y: 1886
 		},
@@ -4987,7 +4987,7 @@
 			y: 1191
 		},
 		{
-			Name: "Weston super Mare",
+			Name: "WestonsuperMare",
 			x: 2051,
 			y: 888
 		},
@@ -5002,7 +5002,7 @@
 			y: 952
 		},
 		{
-			Name: "Chalon sur Saône",
+			Name: "ChalonsurSaône",
 			x: 2146,
 			y: 970
 		},
@@ -5052,7 +5052,7 @@
 			y: 1048
 		},
 		{
-			Name: "La Rochelle",
+			Name: "LaRochelle",
 			x: 2074,
 			y: 980
 		},
@@ -5067,12 +5067,12 @@
 			y: 1120
 		},
 		{
-			Name: "Brive la Gaillarde",
+			Name: "BrivelaGaillarde",
 			x: 2106,
 			y: 998
 		},
 		{
-			Name: "Mont de Marsan",
+			Name: "MontdeMarsan",
 			x: 2080,
 			y: 1016
 		},
@@ -5127,7 +5127,7 @@
 			y: 1211
 		},
 		{
-			Name: "Hoang Mai",
+			Name: "HoangMai",
 			x: 3381,
 			y: 1391
 		},
@@ -5422,7 +5422,7 @@
 			y: 1903
 		},
 		{
-			Name: "Belon'i Tsiribihina",
+			Name: "Belon'iTsiribihina",
 			x: 2631,
 			y: 1912
 		},
@@ -5432,7 +5432,7 @@
 			y: 1079
 		},
 		{
-			Name: "Soanierana Ivongo",
+			Name: "SoanieranaIvongo",
 			x: 2691,
 			y: 1869
 		},
@@ -5482,7 +5482,7 @@
 			y: 1082
 		},
 		{
-			Name: "Ciudad Real",
+			Name: "CiudadReal",
 			x: 2038,
 			y: 1096
 		},
@@ -5562,7 +5562,7 @@
 			y: 919
 		},
 		{
-			Name: "Novohrad Volynskyi",
+			Name: "NovohradVolynskyi",
 			x: 2424,
 			y: 903
 		},
@@ -5607,12 +5607,12 @@
 			y: 1921
 		},
 		{
-			Name: "Beaufort West",
+			Name: "BeaufortWest",
 			x: 2359,
 			y: 2098
 		},
 		{
-			Name: "Jeffreys Bay",
+			Name: "JeffreysBay",
 			x: 2386,
 			y: 2125
 		},

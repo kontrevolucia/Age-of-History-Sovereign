@@ -2,22 +2,22 @@
 	cities:
 	[
 		{
-			Name: "Fuerte Olimpo",
+			Name: "FuerteOlimpo",
 			x: 1372,
 			y: 1927
 		},
 		{
-			Name: "Alice Springs",
+			Name: "AliceSprings",
 			x: 3723,
 			y: 1970
 		},
 		{
-			Name: "Al Jawf",
+			Name: "AlJawf",
 			x: 2372,
 			y: 1316
 		},
 		{
-			Name: "Roggan River",
+			Name: "RogganRiver",
 			x: 1113,
 			y: 835
 		},
@@ -52,7 +52,7 @@
 			y: 1097
 		},
 		{
-			Name: "Dong Ujimqin Qi",
+			Name: "DongUjimqinQi",
 			x: 3524,
 			y: 980
 		},
@@ -92,7 +92,7 @@
 			y: 993
 		},
 		{
-			Name: "Czornyj Jar",
+			Name: "CzornyjJar",
 			x: 2650,
 			y: 951
 		},
@@ -132,7 +132,7 @@
 			y: 1726
 		},
 		{
-			Name: "Al-Bahr al-Ahmar",
+			Name: "Al-Bahral-Ahmar",
 			x: 2492,
 			y: 1293
 		},
@@ -152,12 +152,12 @@
 			y: 1483
 		},
 		{
-			Name: "Asha Addo",
+			Name: "AshaAddo",
 			x: 2618,
 			y: 1497
 		},
 		{
-			Name: "Mo i Rana",
+			Name: "MoiRana",
 			x: 2262,
 			y: 571
 		},
@@ -172,7 +172,7 @@
 			y: 531
 		},
 		{
-			Name: "Abag Qi",
+			Name: "AbagQi",
 			x: 3492,
 			y: 1004
 		},
@@ -242,7 +242,7 @@
 			y: 1468
 		},
 		{
-			Name: "Wang San",
+			Name: "WangSan",
 			x: 3304,
 			y: 1430
 		},
@@ -257,12 +257,12 @@
 			y: 810
 		},
 		{
-			Name: "North Camel",
+			Name: "NorthCamel",
 			x: 2226,
 			y: 1315
 		},
 		{
-			Name: "South Camel",
+			Name: "SouthCamel",
 			x: 2260,
 			y: 1337
 		},
@@ -342,7 +342,7 @@
 			y: 629
 		},
 		{
-			Name: "Novyy Vasyugan",
+			Name: "NovyyVasyugan",
 			x: 3012,
 			y: 757
 		},
@@ -367,7 +367,7 @@
 			y: 891
 		},
 		{
-			Name: "Kosh Agach",
+			Name: "KoshAgach",
 			x: 3172,
 			y: 911
 		},
@@ -442,7 +442,7 @@
 			y: 538
 		},
 		{
-			Name: "Ust Nera",
+			Name: "UstNera",
 			x: 3845,
 			y: 632
 		},
@@ -482,7 +482,7 @@
 			y: 846
 		},
 		{
-			Name: "Nikolayevsk on Amur",
+			Name: "NikolayevskonAmur",
 			x: 3807,
 			y: 852
 		},
@@ -532,7 +532,7 @@
 			y: 592
 		},
 		{
-			Name: "Belushya Guba",
+			Name: "BelushyaGuba",
 			x: 2731,
 			y: 436
 		},
@@ -627,7 +627,7 @@
 			y: 568
 		},
 		{
-			Name: "Ushki Bay",
+			Name: "UshkiBay",
 			x: 3876,
 			y: 733
 		},
@@ -752,7 +752,7 @@
 			y: 915
 		},
 		{
-			Name: "Ulaan Uul",
+			Name: "UlaanUul",
 			x: 3300,
 			y: 897
 		},
@@ -972,12 +972,12 @@
 			y: 776
 		},
 		{
-			Name: "Port Nelson",
+			Name: "PortNelson",
 			x: 949,
 			y: 783
 		},
 		{
-			Name: "La Tuque",
+			Name: "LaTuque",
 			x: 1186,
 			y: 961
 		},
@@ -1007,27 +1007,27 @@
 			y: 700
 		},
 		{
-			Name: "Fort Liard",
+			Name: "FortLiard",
 			x: 571,
 			y: 728
 		},
 		{
-			Name: "Watson Lake",
+			Name: "WatsonLake",
 			x: 499,
 			y: 729
 		},
 		{
-			Name: "Black Lake",
+			Name: "BlackLake",
 			x: 790,
 			y: 747
 		},
 		{
-			Name: "Lynn Lake",
+			Name: "LynnLake",
 			x: 842,
 			y: 791
 		},
 		{
-			Name: "Rankin Inlet",
+			Name: "RankinInlet",
 			x: 955,
 			y: 660
 		},
@@ -1042,7 +1042,7 @@
 			y: 810
 		},
 		{
-			Name: "The Pas",
+			Name: "ThePas",
 			x: 845,
 			y: 844
 		},
@@ -1057,7 +1057,7 @@
 			y: 913
 		},
 		{
-			Name: "Fort Severn",
+			Name: "FortSevern",
 			x: 1012,
 			y: 807
 		},
@@ -1097,7 +1097,7 @@
 			y: 895
 		},
 		{
-			Name: "Pond Inlet",
+			Name: "PondInlet",
 			x: 1133,
 			y: 411
 		},
@@ -1107,7 +1107,7 @@
 			y: 251
 		},
 		{
-			Name: "Gjoa Haven",
+			Name: "GjoaHaven",
 			x: 904,
 			y: 522
 		},
@@ -1177,7 +1177,7 @@
 			y: 673
 		},
 		{
-			Name: "Old Crow",
+			Name: "OldCrow",
 			x: 360,
 			y: 559
 		},
@@ -1242,7 +1242,7 @@
 			y: 714
 		},
 		{
-			Name: "North West River",
+			Name: "NorthWestRiver",
 			x: 1343,
 			y: 856
 		},
@@ -1257,7 +1257,7 @@
 			y: 1760
 		},
 		{
-			Name: "Feliz Natal",
+			Name: "FelizNatal",
 			x: 1406,
 			y: 1806
 		},
@@ -1267,7 +1267,7 @@
 			y: 1763
 		},
 		{
-			Name: "Água Boa",
+			Name: "ÁguaBoa",
 			x: 1441,
 			y: 1830
 		},
@@ -1307,7 +1307,7 @@
 			y: 1534
 		},
 		{
-			Name: "Punta Gorda",
+			Name: "PuntaGorda",
 			x: 996,
 			y: 1431
 		},
@@ -1452,7 +1452,7 @@
 			y: 1081
 		},
 		{
-			Name: "Český Krumlov",
+			Name: "ČeskýKrumlov",
 			x: 2261,
 			y: 935
 		},
@@ -1577,17 +1577,17 @@
 			y: 1104
 		},
 		{
-			Name: "Ash Shalfa",
+			Name: "AshShalfa",
 			x: 2693,
 			y: 1345
 		},
 		{
-			Name: "Al Kharkhir",
+			Name: "AlKharkhir",
 			x: 2705,
 			y: 1390
 		},
 		{
-			Name: "Al Hait",
+			Name: "AlHait",
 			x: 2579,
 			y: 1286
 		},
@@ -1602,7 +1602,7 @@
 			y: 1252
 		},
 		{
-			Name: "Rawdat Habbas",
+			Name: "RawdatHabbas",
 			x: 2625,
 			y: 1245
 		},
@@ -1667,7 +1667,7 @@
 			y: 1418
 		},
 		{
-			Name: "Al Ghaydah",
+			Name: "AlGhaydah",
 			x: 2727,
 			y: 1426
 		},
@@ -1692,7 +1692,7 @@
 			y: 1271
 		},
 		{
-			Name: "Nykøbing Falster",
+			Name: "NykøbingFalster",
 			x: 2231,
 			y: 821
 		},
@@ -1712,7 +1712,7 @@
 			y: 2001
 		},
 		{
-			Name: "New Xade",
+			Name: "NewXade",
 			x: 2358,
 			y: 1945
 		},
@@ -1742,7 +1742,7 @@
 			y: 1954
 		},
 		{
-			Name: "Nova Sofala",
+			Name: "NovaSofala",
 			x: 2513,
 			y: 1911
 		},
@@ -1887,7 +1887,7 @@
 			y: 1878
 		},
 		{
-			Name: "Amde Work",
+			Name: "AmdeWork",
 			x: 2560,
 			y: 1473
 		},
@@ -1972,7 +1972,7 @@
 			y: 1547
 		},
 		{
-			Name: "Debre Zeyit",
+			Name: "DebreZeyit",
 			x: 2523,
 			y: 1503
 		},
@@ -2037,7 +2037,7 @@
 			y: 1274
 		},
 		{
-			Name: "El Djedid",
+			Name: "ElDjedid",
 			x: 2081,
 			y: 1274
 		},
@@ -2082,7 +2082,7 @@
 			y: 799
 		},
 		{
-			Name: "Bir Anzerane",
+			Name: "BirAnzerane",
 			x: 1910,
 			y: 1323
 		},
@@ -2137,7 +2137,7 @@
 			y: 1135
 		},
 		{
-			Name: "Myrtle Beach",
+			Name: "MyrtleBeach",
 			x: 1115,
 			y: 1182
 		},
@@ -2152,7 +2152,7 @@
 			y: 1538
 		},
 		{
-			Name: "Nanga Eboko",
+			Name: "NangaEboko",
 			x: 2236,
 			y: 1580
 		},
@@ -2187,7 +2187,7 @@
 			y: 1504
 		},
 		{
-			Name: "Djado Plateau",
+			Name: "DjadoPlateau",
 			x: 2237,
 			y: 1360
 		},
@@ -2272,7 +2272,7 @@
 			y: 1300
 		},
 		{
-			Name: "Ad Dumayriyah",
+			Name: "AdDumayriyah",
 			x: 2578,
 			y: 1321
 		},
@@ -2302,7 +2302,7 @@
 			y: 1336
 		},
 		{
-			Name: "Al Minkhali",
+			Name: "AlMinkhali",
 			x: 2648,
 			y: 1401
 		},
@@ -2332,12 +2332,12 @@
 			y: 1305
 		},
 		{
-			Name: "Ar Ruwaidhah",
+			Name: "ArRuwaidhah",
 			x: 2643,
 			y: 1317
 		},
 		{
-			Name: "Mahd Al Thahab",
+			Name: "MahdAlThahab",
 			x: 2591,
 			y: 1323
 		},
@@ -2397,7 +2397,7 @@
 			y: 812
 		},
 		{
-			Name: "Alxa Zuoqi",
+			Name: "AlxaZuoqi",
 			x: 3377,
 			y: 1090
 		},
@@ -2492,7 +2492,7 @@
 			y: 1686
 		},
 		{
-			Name: "Ban Phone",
+			Name: "BanPhone",
 			x: 3391,
 			y: 1440
 		},
@@ -2507,12 +2507,12 @@
 			y: 1392
 		},
 		{
-			Name: "Al-Bahr Al-Ahmar",
+			Name: "Al-BahrAl-Ahmar",
 			x: 2481,
 			y: 1346
 		},
 		{
-			Name: "Abu Hamad",
+			Name: "AbuHamad",
 			x: 2495,
 			y: 1371
 		},
@@ -2522,7 +2522,7 @@
 			y: 1692
 		},
 		{
-			Name: "Krong Preah Vihear",
+			Name: "KrongPreahVihear",
 			x: 3368,
 			y: 1457
 		},
@@ -2582,7 +2582,7 @@
 			y: 1491
 		},
 		{
-			Name: "Al Dabbah",
+			Name: "AlDabbah",
 			x: 2464,
 			y: 1405
 		},
@@ -2612,7 +2612,7 @@
 			y: 1253
 		},
 		{
-			Name: "Ar Rutba",
+			Name: "ArRutba",
 			x: 2591,
 			y: 1187
 		},
@@ -2627,17 +2627,17 @@
 			y: 1195
 		},
 		{
-			Name: "Jafr Sub",
+			Name: "JafrSub",
 			x: 2543,
 			y: 1225
 		},
 		{
-			Name: "Al Haddar",
+			Name: "AlHaddar",
 			x: 2641,
 			y: 1342
 		},
 		{
-			Name: "Riaa Albekr",
+			Name: "RiaaAlbekr",
 			x: 2595,
 			y: 1275
 		},
@@ -2672,7 +2672,7 @@
 			y: 1231
 		},
 		{
-			Name: "Abu Hamad",
+			Name: "AbuHamad",
 			x: 2492,
 			y: 1380
 		},
@@ -2742,7 +2742,7 @@
 			y: 1311
 		},
 		{
-			Name: "Abu Minqar",
+			Name: "AbuMinqar",
 			x: 2424,
 			y: 1287
 		},
@@ -2772,12 +2772,12 @@
 			y: 1305
 		},
 		{
-			Name: "Hala ib",
+			Name: "Halaib",
 			x: 2534,
 			y: 1344
 		},
 		{
-			Name: "Siwa Oasis",
+			Name: "SiwaOasis",
 			x: 2399,
 			y: 1242
 		},
@@ -2797,7 +2797,7 @@
 			y: 1421
 		},
 		{
-			Name: "Ayoun el Atrous",
+			Name: "AyounelAtrous",
 			x: 1968,
 			y: 1421
 		},
@@ -2817,12 +2817,12 @@
 			y: 1339
 		},
 		{
-			Name: "Bir Moghrein",
+			Name: "BirMoghrein",
 			x: 1944,
 			y: 1301
 		},
 		{
-			Name: "In Guezzam",
+			Name: "InGuezzam",
 			x: 2156,
 			y: 1377
 		},
@@ -2842,7 +2842,7 @@
 			y: 1313
 		},
 		{
-			Name: "In Amguel",
+			Name: "InAmguel",
 			x: 2138,
 			y: 1310
 		},
@@ -2852,7 +2852,7 @@
 			y: 1200
 		},
 		{
-			Name: "Béni Abbès District",
+			Name: "BéniAbbèsDistrict",
 			x: 2059,
 			y: 1230
 		},
@@ -2862,7 +2862,7 @@
 			y: 1202
 		},
 		{
-			Name: "Oum El Assel",
+			Name: "OumElAssel",
 			x: 2017,
 			y: 1255
 		},
@@ -3197,7 +3197,7 @@
 			y: 1825
 		},
 		{
-			Name: "El Sara",
+			Name: "ElSara",
 			x: 1283,
 			y: 1806
 		},
@@ -3257,7 +3257,7 @@
 			y: 1794
 		},
 		{
-			Name: "San Lorenzo",
+			Name: "SanLorenzo",
 			x: 1151,
 			y: 1704
 		},
@@ -3307,7 +3307,7 @@
 			y: 1592
 		},
 		{
-			Name: "San Martín de los Andes",
+			Name: "SanMartíndelosAndes",
 			x: 1207,
 			y: 2219
 		},
@@ -3407,7 +3407,7 @@
 			y: 1311
 		},
 		{
-			Name: "La Pesca",
+			Name: "LaPesca",
 			x: 885,
 			y: 1326
 		},
@@ -3447,7 +3447,7 @@
 			y: 1533
 		},
 		{
-			Name: "San Juan",
+			Name: "SanJuan",
 			x: 1273,
 			y: 1575
 		},
@@ -3547,7 +3547,7 @@
 			y: 1568
 		},
 		{
-			Name: "Puerto Carreño",
+			Name: "PuertoCarreño",
 			x: 1255,
 			y: 1562
 		},
@@ -3592,7 +3592,7 @@
 			y: 1661
 		},
 		{
-			Name: "Puerto Asís",
+			Name: "PuertoAsís",
 			x: 1146,
 			y: 1636
 		},
@@ -3607,7 +3607,7 @@
 			y: 1533
 		},
 		{
-			Name: "Puerto Baquerizo Moreno",
+			Name: "PuertoBaquerizoMoreno",
 			x: 983,
 			y: 1654
 		},
@@ -3627,7 +3627,7 @@
 			y: 1706
 		},
 		{
-			Name: "Fonte Boa",
+			Name: "FonteBoa",
 			x: 1270,
 			y: 1675
 		},
@@ -3642,7 +3642,7 @@
 			y: 1697
 		},
 		{
-			Name: "Alto Alegre",
+			Name: "AltoAlegre",
 			x: 1328,
 			y: 1602
 		},
@@ -3667,17 +3667,17 @@
 			y: 1753
 		},
 		{
-			Name: "Estancia Escobar",
+			Name: "EstanciaEscobar",
 			x: 1343,
 			y: 1933
 		},
 		{
-			Name: "Mayor Pablo Lagerenza",
+			Name: "MayorPabloLagerenza",
 			x: 1335,
 			y: 1911
 		},
 		{
-			Name: "Pozo Colorado",
+			Name: "PozoColorado",
 			x: 1359,
 			y: 1962
 		},
@@ -3727,17 +3727,17 @@
 			y: 2188
 		},
 		{
-			Name: "Las Lajas",
+			Name: "LasLajas",
 			x: 1219,
 			y: 2173
 		},
 		{
-			Name: "Casa de Piedra",
+			Name: "CasadePiedra",
 			x: 1256,
 			y: 2186
 		},
 		{
-			Name: "La Adela",
+			Name: "LaAdela",
 			x: 1293,
 			y: 2200
 		},
@@ -3762,7 +3762,7 @@
 			y: 1964
 		},
 		{
-			Name: "Tolar Grande",
+			Name: "TolarGrande",
 			x: 1257,
 			y: 1978
 		},
@@ -3772,7 +3772,7 @@
 			y: 2147
 		},
 		{
-			Name: "Taco Pozo",
+			Name: "TacoPozo",
 			x: 1309,
 			y: 1993
 		},
@@ -3782,12 +3782,12 @@
 			y: 2005
 		},
 		{
-			Name: "Ingeniero Juárez",
+			Name: "IngenieroJuárez",
 			x: 1323,
 			y: 1968
 		},
 		{
-			Name: "Curuzú Cuatiá",
+			Name: "CuruzúCuatiá",
 			x: 1371,
 			y: 2054
 		},
@@ -3817,12 +3817,12 @@
 			y: 2455
 		},
 		{
-			Name: "Sierra Colorada",
+			Name: "SierraColorada",
 			x: 1249,
 			y: 2227
 		},
 		{
-			Name: "Sierra Grande",
+			Name: "SierraGrande",
 			x: 1279,
 			y: 2245
 		},
@@ -3847,17 +3847,17 @@
 			y: 2270
 		},
 		{
-			Name: "Puerto Edén",
+			Name: "PuertoEdén",
 			x: 1169,
 			y: 2382
 		},
 		{
-			Name: "Perito Moreno",
+			Name: "PeritoMoreno",
 			x: 1212,
 			y: 2334
 		},
 		{
-			Name: "Puerto San Julián",
+			Name: "PuertoSanJulián",
 			x: 1251,
 			y: 2386
 		},
@@ -3977,7 +3977,7 @@
 			y: 1217
 		},
 		{
-			Name: "Al Salman",
+			Name: "AlSalman",
 			x: 2629,
 			y: 1223
 		},
@@ -3992,7 +3992,7 @@
 			y: 2050
 		},
 		{
-			Name: "Al Jahra",
+			Name: "AlJahra",
 			x: 2669,
 			y: 1239
 		},
@@ -4022,7 +4022,7 @@
 			y: 1275
 		},
 		{
-			Name: "Mong Yang",
+			Name: "MongYang",
 			x: 3286,
 			y: 1357
 		},
@@ -4032,7 +4032,7 @@
 			y: 1412
 		},
 		{
-			Name: "Keng Tung",
+			Name: "KengTung",
 			x: 3305,
 			y: 1359
 		},
@@ -4182,7 +4182,7 @@
 			y: 911
 		},
 		{
-			Name: "La Malbaie",
+			Name: "LaMalbaie",
 			x: 1227,
 			y: 953
 		},
@@ -4302,7 +4302,7 @@
 			y: 937
 		},
 		{
-			Name: "Devils Lake",
+			Name: "DevilsLake",
 			x: 869,
 			y: 951
 		},
@@ -4332,12 +4332,12 @@
 			y: 950
 		},
 		{
-			Name: "Miles City",
+			Name: "MilesCity",
 			x: 784,
 			y: 981
 		},
 		{
-			Name: "China Hat",
+			Name: "ChinaHat",
 			x: 663,
 			y: 1053
 		},
@@ -4377,7 +4377,7 @@
 			y: 1227
 		},
 		{
-			Name: "Fort Stockton",
+			Name: "FortStockton",
 			x: 821,
 			y: 1224
 		},
@@ -4397,7 +4397,7 @@
 			y: 1059
 		},
 		{
-			Name: "Santa Rosa",
+			Name: "SantaRosa",
 			x: 799,
 			y: 1165
 		},
@@ -4427,7 +4427,7 @@
 			y: 1433
 		},
 		{
-			Name: "Ban Tom",
+			Name: "BanTom",
 			x: 3312,
 			y: 1384
 		},
@@ -4447,17 +4447,17 @@
 			y: 1409
 		},
 		{
-			Name: "Lak Sao",
+			Name: "LakSao",
 			x: 3369,
 			y: 1400
 		},
 		{
-			Name: "Sam Neua",
+			Name: "SamNeua",
 			x: 3359,
 			y: 1370
 		},
 		{
-			Name: "Boun Neua",
+			Name: "BounNeua",
 			x: 3334,
 			y: 1355
 		},

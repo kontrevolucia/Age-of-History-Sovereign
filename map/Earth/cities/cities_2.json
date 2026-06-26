@@ -37,7 +37,7 @@
 			y: 1165
 		},
 		{
-			Name: "David Chiriquí",
+			Name: "DavidChiriquí",
 			x: 1073,
 			y: 1533
 		},
@@ -152,7 +152,7 @@
 			y: 1167
 		},
 		{
-			Name: "New Sandec",
+			Name: "NewSandec",
 			x: 2340,
 			y: 920
 		},
@@ -217,7 +217,7 @@
 			y: 990
 		},
 		{
-			Name: "Bandar Lampung",
+			Name: "BandarLampung",
 			x: 3374,
 			y: 1719
 		},
@@ -437,17 +437,17 @@
 			y: 1264
 		},
 		{
-			Name: "Novy Urengoy",
+			Name: "NovyUrengoy",
 			x: 3026,
 			y: 575
 		},
 		{
-			Name: "Yuzhno Sakhalinsk",
+			Name: "YuzhnoSakhalinsk",
 			x: 3834,
 			y: 961
 		},
 		{
-			Name: "Komsomolsk on Amur",
+			Name: "KomsomolskonAmur",
 			x: 3760,
 			y: 908
 		},
@@ -467,7 +467,7 @@
 			y: 1033
 		},
 		{
-			Name: "Vesely Yar",
+			Name: "VeselyYar",
 			x: 3749,
 			y: 1010
 		},
@@ -577,7 +577,7 @@
 			y: 1168
 		},
 		{
-			Name: "Dera Ghazi Khan",
+			Name: "DeraGhaziKhan",
 			x: 2947,
 			y: 1235
 		},
@@ -612,7 +612,7 @@
 			y: 1232
 		},
 		{
-			Name: "Sri Ganganagar",
+			Name: "SriGanganagar",
 			x: 2988,
 			y: 1236
 		},
@@ -667,7 +667,7 @@
 			y: 719
 		},
 		{
-			Name: "San Miguel",
+			Name: "SanMiguel",
 			x: 776,
 			y: 1237
 		},
@@ -727,7 +727,7 @@
 			y: 1399
 		},
 		{
-			Name: "Ciudad del Carmen",
+			Name: "CiudaddelCarmen",
 			x: 957,
 			y: 1397
 		},
@@ -747,7 +747,7 @@
 			y: 873
 		},
 		{
-			Name: "Le Mans",
+			Name: "LeMans",
 			x: 2089,
 			y: 948
 		},
@@ -862,12 +862,12 @@
 			y: 1586
 		},
 		{
-			Name: "Arba Minch",
+			Name: "ArbaMinch",
 			x: 2543,
 			y: 1565
 		},
 		{
-			Name: "Debre Berhan",
+			Name: "DebreBerhan",
 			x: 2570,
 			y: 1516
 		},
@@ -942,7 +942,7 @@
 			y: 1450
 		},
 		{
-			Name: "Birnin Kebbi",
+			Name: "BirninKebbi",
 			x: 2134,
 			y: 1482
 		},
@@ -1102,7 +1102,7 @@
 			y: 1176
 		},
 		{
-			Name: "Aïn Oussera",
+			Name: "AïnOussera",
 			x: 2121,
 			y: 1149
 		},
@@ -1262,7 +1262,7 @@
 			y: 1137
 		},
 		{
-			Name: "El Jadida",
+			Name: "ElJadida",
 			x: 1991,
 			y: 1181
 		},
@@ -1592,7 +1592,7 @@
 			y: 1066
 		},
 		{
-			Name: "Xilingol League",
+			Name: "XilingolLeague",
 			x: 3507,
 			y: 1017
 		},
@@ -1622,7 +1622,7 @@
 			y: 922
 		},
 		{
-			Name: "Arun Banner",
+			Name: "ArunBanner",
 			x: 3597,
 			y: 944
 		},
@@ -1687,7 +1687,7 @@
 			y: 1087
 		},
 		{
-			Name: "Al Bahah",
+			Name: "AlBahah",
 			x: 2592,
 			y: 1374
 		},
@@ -1897,7 +1897,7 @@
 			y: 1038
 		},
 		{
-			Name: "Bandundu ",
+			Name: "Bandundu",
 			x: 2297,
 			y: 1689
 		},
@@ -2027,7 +2027,7 @@
 			y: 1523
 		},
 		{
-			Name: "General Santos",
+			Name: "GeneralSantos",
 			x: 3618,
 			y: 1559
 		},
@@ -2052,17 +2052,17 @@
 			y: 1725
 		},
 		{
-			Name: "Santa Fe",
+			Name: "SantaFe",
 			x: 1337,
 			y: 2083
 		},
 		{
-			Name: "Santiago del Estero",
+			Name: "SantiagodelEstero",
 			x: 1295,
 			y: 2026
 		},
 		{
-			Name: "La Rioja",
+			Name: "LaRioja",
 			x: 1261,
 			y: 2050
 		},
@@ -2077,7 +2077,7 @@
 			y: 2197
 		},
 		{
-			Name: "San Luis",
+			Name: "SanLuis",
 			x: 1268,
 			y: 2109
 		},
@@ -2122,7 +2122,7 @@
 			y: 2201
 		},
 		{
-			Name: "Comodoro Rivadavia",
+			Name: "ComodoroRivadavia",
 			x: 1252,
 			y: 2319
 		},
@@ -2187,12 +2187,12 @@
 			y: 1644
 		},
 		{
-			Name: "Palangka Raya",
+			Name: "PalangkaRaya",
 			x: 3479,
 			y: 1676
 		},
 		{
-			Name: "Kota Bharu",
+			Name: "KotaBharu",
 			x: 3338,
 			y: 1563
 		},
@@ -2207,7 +2207,7 @@
 			y: 1580
 		},
 		{
-			Name: "Sungai Petani",
+			Name: "SungaiPetani",
 			x: 3318,
 			y: 1571
 		},
@@ -2272,7 +2272,7 @@
 			y: 1164
 		},
 		{
-			Name: "Puerto Princesa",
+			Name: "PuertoPrincesa",
 			x: 3545,
 			y: 1509
 		},
@@ -2347,7 +2347,7 @@
 			y: 1226
 		},
 		{
-			Name: "Torbat-e Heydarieh",
+			Name: "Torbat-eHeydarieh",
 			x: 2810,
 			y: 1157
 		},
@@ -2532,7 +2532,7 @@
 			y: 984
 		},
 		{
-			Name: "Saint John",
+			Name: "SaintJohn",
 			x: 1272,
 			y: 998
 		},
@@ -2542,12 +2542,12 @@
 			y: 1061
 		},
 		{
-			Name: "Grand Rapids",
+			Name: "GrandRapids",
 			x: 1033,
 			y: 1038
 		},
 		{
-			Name: "Fort Wayne",
+			Name: "FortWayne",
 			x: 1037,
 			y: 1067
 		},
@@ -2602,17 +2602,17 @@
 			y: 1255
 		},
 		{
-			Name: "Green Bay",
+			Name: "GreenBay",
 			x: 1005,
 			y: 1012
 		},
 		{
-			Name: "St. Cloud",
+			Name: "St.Cloud",
 			x: 927,
 			y: 996
 		},
 		{
-			Name: "Sault Ste. Marie",
+			Name: "SaultSte.Marie",
 			x: 1051,
 			y: 977
 		},
@@ -2622,7 +2622,7 @@
 			y: 1151
 		},
 		{
-			Name: "Grand Junction",
+			Name: "GrandJunction",
 			x: 752,
 			y: 1099
 		},
@@ -2647,12 +2647,12 @@
 			y: 972
 		},
 		{
-			Name: "Rapid City",
+			Name: "RapidCity",
 			x: 816,
 			y: 1021
 		},
 		{
-			Name: "Idaho Falls",
+			Name: "IdahoFalls",
 			x: 708,
 			y: 1030
 		},
@@ -2672,7 +2672,7 @@
 			y: 951
 		},
 		{
-			Name: "Medicine Hat",
+			Name: "MedicineHat",
 			x: 724,
 			y: 915
 		},
@@ -2712,7 +2712,7 @@
 			y: 1056
 		},
 		{
-			Name: "Cedar Rapids",
+			Name: "CedarRapids",
 			x: 956,
 			y: 1054
 		},
@@ -2732,7 +2732,7 @@
 			y: 1451
 		},
 		{
-			Name: "Ciudad Bolívar",
+			Name: "CiudadBolívar",
 			x: 1302,
 			y: 1537
 		},
@@ -2802,17 +2802,17 @@
 			y: 1472
 		},
 		{
-			Name: "Nakhon Sawan",
+			Name: "NakhonSawan",
 			x: 3312,
 			y: 1435
 		},
 		{
-			Name: "Nakhon Ratchasima",
+			Name: "NakhonRatchasima",
 			x: 3337,
 			y: 1442
 		},
 		{
-			Name: "Chiang Mai",
+			Name: "ChiangMai",
 			x: 3296,
 			y: 1395
 		},
@@ -2827,7 +2827,7 @@
 			y: 1478
 		},
 		{
-			Name: "Surat Thani",
+			Name: "SuratThani",
 			x: 3300,
 			y: 1522
 		},
@@ -2837,12 +2837,12 @@
 			y: 1555
 		},
 		{
-			Name: "Luang Prabang",
+			Name: "LuangPrabang",
 			x: 3339,
 			y: 1378
 		},
 		{
-			Name: "Nha Trang",
+			Name: "NhaTrang",
 			x: 3423,
 			y: 1481
 		},
@@ -2857,7 +2857,7 @@
 			y: 1423
 		},
 		{
-			Name: "Viet Tri",
+			Name: "VietTri",
 			x: 3375,
 			y: 1356
 		},
@@ -2867,17 +2867,17 @@
 			y: 1394
 		},
 		{
-			Name: "Thanh Hoa",
+			Name: "ThanhHoa",
 			x: 3382,
 			y: 1379
 		},
 		{
-			Name: "Quy Nhon",
+			Name: "QuyNhon",
 			x: 3425,
 			y: 1461
 		},
 		{
-			Name: "Da Lat",
+			Name: "DaLat",
 			x: 3412,
 			y: 1485
 		},
@@ -2922,12 +2922,12 @@
 			y: 1349
 		},
 		{
-			Name: "Fort Collins",
+			Name: "FortCollins",
 			x: 793,
 			y: 1077
 		},
 		{
-			Name: "Walvis Bay",
+			Name: "WalvisBay",
 			x: 2262,
 			y: 1958
 		},
@@ -3007,17 +3007,17 @@
 			y: 1066
 		},
 		{
-			Name: "San Antonio",
+			Name: "SanAntonio",
 			x: 875,
 			y: 1245
 		},
 		{
-			Name: "Las Cruces",
+			Name: "LasCruces",
 			x: 770,
 			y: 1204
 		},
 		{
-			Name: "St. George",
+			Name: "St.George",
 			x: 690,
 			y: 1132
 		},
@@ -3037,12 +3037,12 @@
 			y: 1438
 		},
 		{
-			Name: "Piedras Negras",
+			Name: "PiedrasNegras",
 			x: 850,
 			y: 1256
 		},
 		{
-			Name: "Del Rio",
+			Name: "DelRio",
 			x: 846,
 			y: 1245
 		},
@@ -3052,17 +3052,17 @@
 			y: 1280
 		},
 		{
-			Name: "Los Mochis",
+			Name: "LosMochis",
 			x: 746,
 			y: 1296
 		},
 		{
-			Name: "Marsa Alam",
+			Name: "MarsaAlam",
 			x: 2513,
 			y: 1305
 		},
 		{
-			Name: "Port Said",
+			Name: "PortSaid",
 			x: 2479,
 			y: 1214
 		},
@@ -3157,7 +3157,7 @@
 			y: 1045
 		},
 		{
-			Name: "Sfântu Gheorghe",
+			Name: "SfântuGheorghe",
 			x: 2405,
 			y: 995
 		},
@@ -3172,7 +3172,7 @@
 			y: 753
 		},
 		{
-			Name: "Targu Mures",
+			Name: "TarguMures",
 			x: 2386,
 			y: 973
 		},
@@ -3222,12 +3222,12 @@
 			y: 857
 		},
 		{
-			Name: "Gorzów Wielkopolski",
+			Name: "GorzówWielkopolski",
 			x: 2273,
 			y: 863
 		},
 		{
-			Name: "Zielona Góra",
+			Name: "ZielonaGóra",
 			x: 2275,
 			y: 879
 		},
@@ -3367,7 +3367,7 @@
 			y: 1126
 		},
 		{
-			Name: "Reggio Calabria",
+			Name: "ReggioCalabria",
 			x: 2279,
 			y: 1110
 		},
@@ -3392,12 +3392,12 @@
 			y: 1279
 		},
 		{
-			Name: "Ciudad Valles",
+			Name: "CiudadValles",
 			x: 869,
 			y: 1351
 		},
 		{
-			Name: "Puerto Vallarta",
+			Name: "PuertoVallarta",
 			x: 795,
 			y: 1370
 		},
@@ -3407,7 +3407,7 @@
 			y: 1272
 		},
 		{
-			Name: "Nuevo Laredo",
+			Name: "NuevoLaredo",
 			x: 862,
 			y: 1274
 		},
@@ -3442,12 +3442,12 @@
 			y: 1389
 		},
 		{
-			Name: "Salina Cruz",
+			Name: "SalinaCruz",
 			x: 919,
 			y: 1428
 		},
 		{
-			Name: "Tuxtla Gutiérrez",
+			Name: "TuxtlaGutiérrez",
 			x: 939,
 			y: 1419
 		},
@@ -3512,7 +3512,7 @@
 			y: 1240
 		},
 		{
-			Name: "Baia Mare",
+			Name: "BaiaMare",
 			x: 2376,
 			y: 957
 		},
@@ -3522,7 +3522,7 @@
 			y: 1413
 		},
 		{
-			Name: "Satu Mare",
+			Name: "SatuMare",
 			x: 2366,
 			y: 954
 		},
@@ -3537,12 +3537,12 @@
 			y: 1109
 		},
 		{
-			Name: "Wichita Falls",
+			Name: "WichitaFalls",
 			x: 880,
 			y: 1184
 		},
 		{
-			Name: "Port St. Lucie",
+			Name: "PortSt.Lucie",
 			x: 1099,
 			y: 1273
 		},
@@ -3557,7 +3557,7 @@
 			y: 1094
 		},
 		{
-			Name: "Atlantic City",
+			Name: "AtlanticCity",
 			x: 1167,
 			y: 1096
 		},
@@ -3572,7 +3572,7 @@
 			y: 1134
 		},
 		{
-			Name: "Cape Girardeau",
+			Name: "CapeGirardeau",
 			x: 1194,
 			y: 1052
 		},
@@ -3632,7 +3632,7 @@
 			y: 803
 		},
 		{
-			Name: "Caldas da Rainha",
+			Name: "CaldasdaRainha",
 			x: 1977,
 			y: 1089
 		},
@@ -3682,7 +3682,7 @@
 			y: 1737
 		},
 		{
-			Name: "Cagayan de Oro",
+			Name: "CagayandeOro",
 			x: 3610,
 			y: 1531
 		},
@@ -3692,7 +3692,7 @@
 			y: 1726
 		},
 		{
-			Name: "Mae Sot",
+			Name: "MaeSot",
 			x: 3292,
 			y: 1416
 		},
@@ -3702,12 +3702,12 @@
 			y: 1234
 		},
 		{
-			Name: "Phan Thiet",
+			Name: "PhanThiet",
 			x: 3409,
 			y: 1498
 		},
 		{
-			Name: "Ca Mau",
+			Name: "CaMau",
 			x: 3375,
 			y: 1522
 		},
@@ -3787,7 +3787,7 @@
 			y: 2018
 		},
 		{
-			Name: "Foz do Iguaçu",
+			Name: "FozdoIguaçu",
 			x: 1415,
 			y: 1990
 		},
@@ -3822,7 +3822,7 @@
 			y: 1947
 		},
 		{
-			Name: "Katima Mulilo",
+			Name: "KatimaMulilo",
 			x: 2383,
 			y: 1879
 		},
@@ -3867,17 +3867,17 @@
 			y: 1983
 		},
 		{
-			Name: "Presidente Prudente",
+			Name: "PresidentePrudente",
 			x: 1451,
 			y: 1942
 		},
 		{
-			Name: "Passo Fundo",
+			Name: "PassoFundo",
 			x: 1438,
 			y: 2032
 		},
 		{
-			Name: "Santa Maria",
+			Name: "SantaMaria",
 			x: 1421,
 			y: 2054
 		},
@@ -3912,7 +3912,7 @@
 			y: 1569
 		},
 		{
-			Name: "East London",
+			Name: "EastLondon",
 			x: 2424,
 			y: 2107
 		},

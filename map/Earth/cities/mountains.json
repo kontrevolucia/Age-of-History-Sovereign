@@ -8,7 +8,7 @@
 			y: 1660,
 		},
 		{
-			Name: "Pico Cristóbal Colón",
+			Name: "PicoCristóbalColón",
 			Elevation: 5700,
 			x: 1180,
 			y: 1498
@@ -20,7 +20,7 @@
 			y: 1575,
 		},
 		{
-			Name: "Pico Bolívar",
+			Name: "PicoBolívar",
 			Elevation: 4978,
 			x: 1213,
 			y: 1524,
@@ -56,13 +56,13 @@
 			y: 984,
 		},
 		{
-			Name: "Carnic Alps",
+			Name: "CarnicAlps",
 			Elevation: 2782,
 			x: 2245,
 			y: 974,
 		},
 		{
-			Name: "Mont Blanc",
+			Name: "MontBlanc",
 			Elevation: 4810,
 			x: 2171,
 			y: 986,
@@ -74,13 +74,13 @@
 			y: 1973,
 		},
 		{
-			Name: "Pedra da Mina",
+			Name: "PedradaMina",
 			Elevation: 2798,
 			x: 1535,
 			y: 1937,
 		},
 		{
-			Name: "Ojos del Salado",
+			Name: "OjosdelSalado",
 			Elevation: 6893,
 			x: 1239,
 			y: 2012,
@@ -92,25 +92,25 @@
 			y: 2091,
 		},
 		{
-			Name: "Mount Usborne",
+			Name: "MountUsborne",
 			Elevation: 705,
 			x: 1360,
 			y: 2433,
 		},
 		{
-			Name: "Mount Paget",
+			Name: "MountPaget",
 			Elevation: 2935,
 			x: 1622,
 			y: 2489,
 		},
 		{
-			Name: "Nevado Sajama",
+			Name: "NevadoSajama",
 			Elevation: 6542,
 			x: 1238,
 			y: 1886,
 		},
 		{
-			Name: "Mount Everest",
+			Name: "MountEverest",
 			Elevation: 8848,
 			x: 3149,
 			y: 1264,
